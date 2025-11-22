@@ -1,0 +1,24 @@
+# Compiled object files
+*.o
+*.d
+
+# Executables
+proj
+
+# Core dumps
+core.*
+*.core
+
+# Editor/IDE files
+.vscode/
+*.log
+
+# Dependency files
+.depend
+
+# Output files
+output.txt
+trace.txt
+
+# Misc
+*~
